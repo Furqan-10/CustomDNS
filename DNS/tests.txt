@@ -1,0 +1,17 @@
+ipconfig /flushdns ......(after setting ip)
+
+nslookup facebook.com 127.0.0.1 ..... (for local testing)
+
+chrome://settings/security
+
+chrome://net-internals/#dns
+
+cd /home/fuqi/Desktop/Custom\ DNS\ Server-1/Custom\ DNS\ Server
+
+
+
+192.168.137.2
+192.168.137.1
+192.168.137.1
+ set wifi preferred dns to 127.0.0.1
+ set hotspot both ip and dns to auto
